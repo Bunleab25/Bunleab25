@@ -1,6 +1,6 @@
 # Bunleab Chea
 
-**Embedded Systems & IoT Developer — Edge AI & Computer Vision**
+**Embedded Systems & IoT  — Edge AI & Computer Vision**
 
 I build connected hardware and intelligent software systems that sense, process, and respond to the physical world in real time. My work sits at the intersection of embedded firmware, IoT infrastructure, and applied computer vision — turning low-level hardware control into practical, AI-driven products.
 
