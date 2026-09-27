@@ -1,37 +1,58 @@
-# Hi there, I'm  Bunleab 👋
+# Bunleab Chea
 
-I build connected hardware, embedded systems, and computer vision pipelines. Currently focused on bridging low-level firmware with real-time AI perception models.
+**Embedded Systems & IoT Developer — Edge AI & Computer Vision**
 
----
-
-### 🔭 What I'm Doing Right Now
-- **Embedded & IoT Systems:** Developing firmware using the **ESP-IDF framework** on **ESP32**, integrating sensors (DHT11, soil moisture, actuators, L298N drivers), and deploying lightweight **MQTT** messaging pipelines.
-- **Edge AI & Computer Vision:** Prototyping real-time detection and recognition workflows using **YOLO (v8/v11)**, **ArcFace**, and **OpenCV** (including biometric tracking and object classification).
-- **Environment & Automation Prototypes:** Building automated control prototypes (environmental monitoring, hardware sensor-actuator loops).
+I build connected hardware and intelligent software systems that sense, process, and respond to the physical world in real time. My work sits at the intersection of embedded firmware, IoT infrastructure, and applied computer vision — turning low-level hardware control into practical, AI-driven products.
 
 ---
 
-### 📚 Topics I'm Currently Exploring
-- Advanced ESP-IDF architectural patterns, FreeRTOS tasks, and low-power modes.
-- Optimizing deep learning models (YOLO / edge inferencing) on single-board computers like **Raspberry Pi**.
-- Industrial communication protocols and robust hardware telemetry.
+## Focus Areas
+
+**Embedded Systems & Firmware**
+Designing firmware on ESP32 using ESP-IDF and FreeRTOS — sensor integration, actuator/motor control, and real-time task scheduling for reliable hardware behavior.
+
+**Edge AI & Computer Vision**
+Implementing real-time object detection, recognition, and tracking with YOLO, ArcFace, and OpenCV, with attention to model optimization for constrained edge devices.
+
+**IoT Systems & Telemetry**
+Architecting sensor-to-dashboard pipelines with MQTT and Raspberry Pi, connecting embedded devices to backend services for monitoring and control.
+
+**Smart Automation**
+Building end-to-end prototypes that combine sensing, decision-making, and automated actuation into working systems — not just isolated components.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## Currently Deepening
 
-**Languages & Frameworks:**  
-`C` `C++` `Python` `ESP-IDF` `OpenCV` `YOLOv8 / YOLOv11`
-
-**Hardware & Platforms:**  
-`ESP32` `Raspberry Pi` `Sensors & Actuators (DHT11, L298N, Servos)` `MQTT`
-
-**Environment & Tooling:**  
-`Linux (Ubuntu)` `Git & GitHub` `VS Code` `LaTeX`
+- FreeRTOS task architecture and real-time system design at scale
+- Model optimization and inference for edge AI deployment
+- Reliable embedded communication and telemetry protocols
+- YOLO-family architectures for real-time vision applications
+- Hardware/software co-design across the embedded-to-cloud stack
 
 ---
 
-### 🌐 Connect With Me
-- **GitHub:** [bunleab](https://github.com/) *(replace with your handle)*
-- **LinkedIn:** [Chea Bunleab](https://linkedin.com/in/) *(replace with your profile link)*
-- 
+## Technical Skills
+
+| Category | Technologies |
+|---|---|
+| Languages & Frameworks | C, C++, Python, ESP-IDF, FreeRTOS |
+| Embedded & Hardware | ESP32, Raspberry Pi, Sensors, Actuators, Servos, L298N, DHT11 |
+| IoT & Communication | MQTT, REST API, Wi-Fi, UART, I²C, SPI, PWM |
+| AI & Computer Vision | YOLOv8, YOLO11, ArcFace, OpenCV, Deep Learning |
+| Tools & Environment | Linux, Ubuntu, Git, GitHub, VS Code, LaTeX |
+
+---
+
+## Areas of Interest
+
+Embedded Systems · IoT · Edge AI · Computer Vision · Smart Agriculture · Robotics · Intelligent Automation
+
+---
+
+## Connect
+
+- GitHub: [@Bunleab25](https://github.com/Bunleab25)
+- LinkedIn: [Chea Bunleab](https://linkedin.com/in/bunleab-chea-806334301/)
+
+*Building at the intersection of hardware, software, and AI.*
