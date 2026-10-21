@@ -50,6 +50,21 @@ Embedded Systems · IoT · Edge AI · Computer Vision · Smart Agriculture · Ro
 
 ---
 
+## 🏆 GitHub Achievements & Activity
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Bunleab25&theme=onedark&no-frame=true&margin-w=4" alt="Bunleab's Trophies" />
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bunleab25&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Bunleab25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 ## Connect
 
 - GitHub: [@Bunleab25](https://github.com/Bunleab25)
